@@ -7,6 +7,6 @@ Markieren Sie zuerst die beiden Brennpunkte der Ellipse und danach einen weitere
 [NOTE]
 ====
 
-Siehe auch Befehl xref:/commands/Ellipse.adoc[Ellipse]).
+Siehe auch Befehl xref:/commands/Ellipse.adoc[Ellipse].
 
 ====
